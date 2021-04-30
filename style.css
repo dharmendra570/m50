@@ -1,0 +1,38 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    text-align: center;
+    background-color: SpringGreen;
+    background-repeat: no-repeat;
+}
+
+img {
+    border-radius: 50%;
+    width: 200px;
+}
+
+h1 {
+    color: Navy;
+    text-shadow: 2px 2px #F8BBDO;
+    font-size: 30px;
+}
+
+p {
+    font-size: 25px;
+    color: Navy;
+}
+
+.menu {
+    List-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: pointer;
+    color: read-only;
+}
+
+#myname {
+    font-family: 'courgette', cursive;
+}
